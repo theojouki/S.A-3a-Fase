@@ -7,15 +7,16 @@ https://github.com/theojouki
 https://github.com/Philiposobjj
 
 Requisitos funcionais do projeto:
-- Cadastro de usuário
-- Cadastro de produto
+- Cadastro de usuário (Théo)
+- Cadastro de produto e gestão de estoque (Philip)
+- Dashboard do vendedor
+- Painel do ADM (Pedro)
 - Carrinho e check-out
+
+Requisitos desejáveis:
+
 - Situação do pedido
-- Suporte ao cliente
-- Painel do ADM
 - Envio e logística
-- Validação de dados
-- Notificação de estoque
 
 Protótipos:
 https://www.figma.com/design/AB2QoCwVcZMc2RQa7sTxQT/Deep-Sea?node-id=0-1&p=f&t=AHG5DEVbBr5Nzo6t-0
