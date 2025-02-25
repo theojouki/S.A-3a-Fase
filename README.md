@@ -19,3 +19,6 @@ Requisitos funcionais do projeto:
 - Validação de dados
 - Notificação de estoque
 - Emissão de relatórios
+
+Protótipos:
+https://www.figma.com/design/AB2QoCwVcZMc2RQa7sTxQT/Deep-Sea?node-id=0-1&p=f&t=AHG5DEVbBr5Nzo6t-0
