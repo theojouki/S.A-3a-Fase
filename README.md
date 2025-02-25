@@ -14,7 +14,6 @@ Requisitos funcionais do projeto:
 - Suporte ao cliente
 - Painel do ADM
 - Legalidade
-- Escalabilidade e flexibilidade
 - Envio e logística
 - Validação de dados
 - Notificação de estoque
