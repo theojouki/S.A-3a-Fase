@@ -5,3 +5,17 @@ Membros da equipe:
 https://github.com/PedroG4R
 https://github.com/theojouki
 https://github.com/Philiposobjj
+
+Requisitos funcionais do projeto:
+- Controle de usuário
+- Controle de produto
+- Carrinho e check-out
+- Controle do pedido
+- Suporte ao cliente
+- Painel do ADM
+- Legalidade
+- Escalabilidade e flexibilidade
+- Envio e logística
+- Validação de dados
+- Notificação de estoque
+- Emissão de relatórios
