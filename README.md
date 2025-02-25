@@ -7,17 +7,15 @@ https://github.com/theojouki
 https://github.com/Philiposobjj
 
 Requisitos funcionais do projeto:
-- Controle de usuário
-- Controle de produto
+- Cadastro de usuário
+- Cadastro de produto
 - Carrinho e check-out
-- Controle do pedido
+- Situação do pedido
 - Suporte ao cliente
 - Painel do ADM
-- Legalidade
 - Envio e logística
 - Validação de dados
 - Notificação de estoque
-- Emissão de relatórios
 
 Protótipos:
 https://www.figma.com/design/AB2QoCwVcZMc2RQa7sTxQT/Deep-Sea?node-id=0-1&p=f&t=AHG5DEVbBr5Nzo6t-0
