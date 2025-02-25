@@ -1,5 +1,5 @@
 # S.A-3a-Fase
-Repositório para o projeto de S.A (terceira fase)
+Repositório para o projeto de S.A nomeado Deep Sea, um sistema de e-commerce (terceira fase)
 
 Membros da equipe:
 https://github.com/PedroG4R
