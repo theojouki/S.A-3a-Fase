@@ -1,5 +1,5 @@
 # S.A-3a-Fase
-Repositório para o projeto de S.A nomeado Deep Sea, um sistema de e-commerce (terceira fase)
+Repositório para o projeto de S.A nomeado Deep Sea, um sistema de e-commerce que utiliza o mesmo formato para vender diferentes tipos de produtos, tendo uma estética única no mercado. (terceira fase)
 
 Membros da equipe:
 https://github.com/PedroG4R
